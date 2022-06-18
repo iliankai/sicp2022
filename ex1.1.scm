@@ -1,8 +1,8 @@
 (display 10)
-(display "\n")
+(newline)
 
 (display (+ 5 3 4))
-(display "\n")
+(newline)
 
 (display (- 9 1))
 (display "\n")
